@@ -1,11 +1,10 @@
-# Dataset Gráfico Básico en Python 📊
+📊 Dataset Gráfico Básico en Python 🐍
 
-Proyecto en Python que permite ingresar datos académicos, almacenarlos en listas y visualizarlos mediante gráficos de barras para un análisis sencillo.
+Proyecto en Python que permite ingresar datos 📝, almacenarlos en listas 🗂️ y visualizarlos mediante gráficos de barras 📈, para un análisis sencillo y práctico 🔍.
 
-## Tecnologías
-- Python
-- Matplotlib
-- Pandas
+🛠 Tecnologías: 
+Python 🐍
+Matplotlib 📉
+Pandas 🗃️
 
-## Objetivo
-Proyecto educativo para practicar análisis básico de datos y visualización.
+🎯 Objetivo: Practicar análisis básico de datos y visualización de manera educativa 📚.
